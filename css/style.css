@@ -25,5 +25,25 @@ header {
   font-size: 26px;
 }
 section {
-  color: #fff;
+}
+.form-conteiner {
+  max-width: 230px;
+  background-color: #ffffffbb;
+  padding: 20px;
+  float: right;
+}
+h2 {
+  font-size: 16px;
+}
+.mb {
+  margin-bottom: 15px;
+}
+input,
+select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
 }
